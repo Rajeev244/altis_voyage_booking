@@ -31,12 +31,12 @@ function Home() {
           <div className="absolute inset-0 bg-gradient-to-b from-foreground/60 via-foreground/40 to-foreground/70" />
         </div>
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-32 md:py-44 text-background">
-          <p className="text-gold font-medium tracking-widest text-sm uppercase animate-fade-up">✦ Premium Travel from Bihar</p>
+          <p className="text-gold font-medium tracking-widest text-sm uppercase animate-fade-up">✦ Premium Travel from Bengaluru</p>
           <h1 className="mt-4 font-display text-4xl sm:text-6xl md:text-7xl font-bold leading-tight max-w-3xl animate-fade-up">
             Your Journey.<br />Our Passion.
           </h1>
           <p className="mt-6 max-w-xl text-base sm:text-lg text-background/85 animate-fade-up">
-            Handcrafted holidays, pilgrimage circuits and bespoke escapes across Asia — curated by travel experts from the heart of Gaya, Bihar.
+            Handcrafted holidays, pilgrimage circuits and bespoke escapes across Asia — curated by travel experts from Bengaluru, Karnataka.
           </p>
           <div className="mt-8 flex flex-wrap gap-3 animate-fade-up">
             <Link to="/destinations/" className="inline-flex items-center gap-2 rounded-full bg-primary px-7 py-3 font-semibold text-primary-foreground hover:bg-primary/90 transition">
