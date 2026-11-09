@@ -28,7 +28,7 @@ function About() {
         </div>
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-28 text-background">
           <p className="text-gold uppercase text-sm tracking-widest font-medium">✦ Our story</p>
-          <h1 className="mt-3 font-display text-4xl sm:text-6xl font-bold">Born in Bihar.<br />Built for the world.</h1>
+          <h1 className="mt-3 font-display text-4xl sm:text-6xl font-bold">Born in Bengaluru.<br />Built for the world.</h1>
         </div>
       </section>
 
