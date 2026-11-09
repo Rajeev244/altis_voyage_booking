@@ -1,11 +1,12 @@
 import { createFileRoute } from "@tanstack/react-router";
+import ownerImage from "../assets/generic/owner_image.jpg"
 
 export const Route = createFileRoute("/about")({
   component: About,
 });
 
 const TEAM = [
-  { name: "Mr. Rajeev", role: "Founder & Tour Director", img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=8*0" },
+  { name: "Mr. Rajeev", role: "Founder & Tour Director", img: ownerImage },
   { name: "Ankit Kumar", role: "Operations Head", img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80" },
   { name: "Priya Verma", role: "Customer Experience", img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80" },
   { name: "Rohit Singh", role: "Pilgrimage Specialist", img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80" },
