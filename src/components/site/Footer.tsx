@@ -20,7 +20,7 @@ export function Footer() {
           </div>
 
           <p className="mt-3 text-sm text-background/70 leading-relaxed">
-            Premium travel curated from the heart of Bihar. Crafting unforgettable journeys across Asia and beyond since day one.
+            Premium travel curated from Bengaluru, Karnataka. Crafting unforgettable journeys across Asia and beyond since day one.
           </p>
         </div>
         <div>
@@ -35,7 +35,7 @@ export function Footer() {
         <div>
           <h4 className="font-semibold mb-3">Contact</h4>
           <ul className="space-y-2 text-sm text-background/70">
-            <li className="flex gap-2 items-start"><MapPin size={16} className="mt-0.5 text-gold" /><span>Gaya, Bihar, India</span></li>
+            <li className="flex gap-2 items-start"><MapPin size={16} className="mt-0.5 text-gold" /><span>Bengaluru, Karnataka, India</span></li>
             <li className="flex gap-2 items-start"><Phone size={16} className="mt-0.5 text-gold" /><span>+91 99864 00886</span></li>
             <li className="flex gap-2 items-start"><Mail size={16} className="mt-0.5 text-gold" /><span>management@altisvoyage.com</span></li>
           </ul>
