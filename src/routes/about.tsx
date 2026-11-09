@@ -33,7 +33,7 @@ function About() {
       </section>
 
       <section className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-16 space-y-6 text-foreground/85 leading-relaxed">
-        <p>Altis Voyage was founded in Gaya, Bihar by a group of travel-obsessed locals who believed Indian travellers deserved better — fewer cookie-cutter packages, more handcrafted journeys. We started with Bodh Gaya pilgrimage circuits and quickly grew into a full-service international tour company.</p>
+        <p>Altis Voyage was founded in Bengaluru, Karnataka by a group of travel-obsessed locals who believed Indian travellers deserved better — fewer cookie-cutter packages, more handcrafted journeys. We started with Bodh Gaya pilgrimage circuits and quickly grew into a full-service international tour company.</p>
         <p>Today we run premium tours across 12+ countries — but our soul is still in Bihar. Every itinerary is reviewed by a human who has actually been there. Every hotel is chosen because we'd stay there ourselves. And our 24×7 WhatsApp line means you're never more than one message away from a real person who cares.</p>
         <div className="grid sm:grid-cols-2 gap-6 pt-6">
           <div className="rounded-2xl bg-card p-6 border border-border shadow-soft">
